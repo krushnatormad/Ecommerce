@@ -7,3 +7,6 @@ Registration page changed 2: krushna
 
 #Ecommerce
 Login page updaed: shekhar 
+
+#Ecommerce
+UI login changes : krushna
