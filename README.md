@@ -10,3 +10,6 @@ Login page updaed: shekhar
 
 #Ecommerce
 UI login changes : krushna
+
+#Ecommerce
+Database changes : krushna
