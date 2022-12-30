@@ -10,3 +10,6 @@ Login page updaed: shekhar
 
 #Ecommerce
 UI login changes : krushna
+
+#Ecommerce
+create Manu driven page: shekhar
