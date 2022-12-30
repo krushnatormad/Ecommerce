@@ -12,4 +12,5 @@ Login page updaed: shekhar
 UI login changes : krushna
 
 #Ecommerce
-create Manu driven page: shekhar
+<<<<<<< HEAD
+create Manu  page:sk
