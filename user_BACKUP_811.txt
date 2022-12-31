@@ -1,6 +1,0 @@
-user1
-<<<<<<< HEAD
-user2
-=======
-new change
->>>>>>> 16b3d38 (changes in user.txt)
